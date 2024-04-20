@@ -3,6 +3,8 @@
 
 ![Wilton Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=owiltonlucas&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owiltonlucas)](https://github.com/owiltonlucas/github-readme-stats)
+
 ## Tecnologias usadas por mim
 
 <div style="display: inline_block"><br/>

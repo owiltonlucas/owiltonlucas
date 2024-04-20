@@ -1,9 +1,9 @@
 
 ### Oi, eu sou o Wilton Lucas   🙋🏻‍♂️
 
-![Wilton Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=owiltonlucas&show_icons=true&theme=dracula)
+![Wilton Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=owiltonlucas&show_icons=true&theme=dracula)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owiltonlucas)](https://github.com/owiltonlucas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owiltonlucas)](https://github.com/owiltonlucas/github-readme-stats)<br/>
 
 ## Tecnologias usadas por mim
 
